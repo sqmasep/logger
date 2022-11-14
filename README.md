@@ -29,5 +29,5 @@ bun add @sqmasep/logger
 
 # TODO / IDEAS
 
-[ ] - Add path to see clearly where the message comes from (in <>)
-[ ] - Add winston as a deps to keep some logs in a file
+- [ ] - Add path to see clearly where the message comes from (in <>)
+- [ ] - Add winston as a deps to keep some logs in a file
