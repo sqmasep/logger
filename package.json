@@ -1,0 +1,15 @@
+{
+  "name": "@sqmasep/logger",
+  "version": "0.0.3",
+  "description": "A basic logger based on chalk, to have a consistent look and feel across projects",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sqmasep",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "chalk": "4.1.2"
+  }
+}
