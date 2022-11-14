@@ -1,6 +1,6 @@
 {
   "name": "@sqmasep/logger",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A basic logger based on chalk, to have a consistent look and feel across projects",
   "main": "index.ts",
   "type": "module",
