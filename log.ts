@@ -6,7 +6,7 @@ namespace Log {
   export interface Config {
     routeWrapper: [string, string];
     badgeWrapper: [string, string];
-    badge: Partial<Record<Types, typeof ForegroundColor>>;
+    badge: Partial<Record<Types, string>>;
     textColors: Partial<Record<Types, typeof ForegroundColor>>;
   }
 }
