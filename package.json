@@ -1,6 +1,6 @@
 {
   "name": "@sqmasep/logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A logger based on chalk, to have a consistent look and feel across projects",
   "main": "log.js",
   "target": "ES2020",
